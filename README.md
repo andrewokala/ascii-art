@@ -19,7 +19,7 @@ A simple command-line ASCII art generator written in Go. This program takes a st
 `git clone <repository-url>`
 
 
-`cd asacii-art`
+`cd ascii-art`
 
 ### Run the Program
 `go run . "Hello"`
@@ -29,8 +29,8 @@ A simple command-line ASCII art generator written in Go. This program takes a st
 
 ### Available Banner Styles
 1. shadow
-2. standar
-3. thinketoy
+2. standard
+3. thinkertoy
 
 ### Technologies Used
 1. Go
