@@ -17,6 +17,8 @@ A simple command-line ASCII art generator written in Go. This program takes a st
 ## Installation
 ### Clone the repository
 `git clone <repository-url>`
+
+
 `cd asacii-art`
 
 ### Run the Program
@@ -37,4 +39,4 @@ A simple command-line ASCII art generator written in Go. This program takes a st
 4. Modular package structure
 
 # Author
-Built with Go for learning and practicing backend and text-processing concepts
+Built with Go for learning and practicing backend and text-processing concepts.
